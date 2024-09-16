@@ -1,6 +1,6 @@
 # NLP Class Imbalance: Classifying Student Responses with AI
-![Static Badge](https://img.shields.io/badge/NLP-blue?style=for-the-badge&logoColor=black&labelColor=yellow)
 ![Static Badge](https://img.shields.io/badge/Jupyter%20Notebook-orange?style=for-the-badge&logo=Jupyter&labelColor=black)
+![Static Badge](https://img.shields.io/badge/NLP-blue?style=for-the-badge&logoColor=black&labelColor=yellow)
 ![Static Badge](https://img.shields.io/badge/Prompting%20(Few--shot)%20(Chain--of--thought)-purple?style=for-the-badge&labelColor=black)
 
 
