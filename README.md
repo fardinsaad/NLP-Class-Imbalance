@@ -20,7 +20,7 @@ The primary challenge faced in this project is the **class imbalance** in the da
 ## Problem Statement
 
 The dataset contains **imbalanced labels** for student responses, making it difficult for the model to learn the **constructive class** effectively. The goal is to develop a system that can learn to classify the responses accurately despite this imbalance.
-```The Dataset is hidden for research purposes and integrity```
+```The Dataset is hidden for research purposes and integrity.```
 
 ### Dataset Structure
 - **Features**: 
